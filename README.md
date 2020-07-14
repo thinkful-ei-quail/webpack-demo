@@ -1,6 +1,14 @@
 npm init -y     //This creates our package.json file
+
+
 npm install jquery    //This installs Jquery
+
+
 npm install --save-dev webpack webpack-cli webpack-dev-server html-webpack-plugin style-loader css-loader file-loader   
+
+
+
+
 //This installs everything we need for webpack
 
 
